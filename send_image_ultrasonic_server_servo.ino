@@ -7,8 +7,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // ----------------- CONFIGURACIÓN COMÚN -----------------
-const char* ssid = "Xiaomi 13T";
-const char* password = "12345678";
+const char* ssid = ""; // Agregar un nombre de red
+const char* password = ""; // Agregar una contraseña
 
 // ----------------- CONFIGURACIÓN DE PINES -----------------
 #define trigPin 13
